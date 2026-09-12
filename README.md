@@ -7,11 +7,11 @@
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-2563EB?style=for-the-badge&labelColor=0F172A"/>
 </a>
- 
+ 
 <a href="https://linkedin.com/in/girijesh-data-science">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
- 
+ 
 <a href="https://github.com/girijesh-s001">
 <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -28,68 +28,94 @@
 
 ---
 
-# `> whoami`
+# `> GitHub Analytics`
 
-```python
-class Girijesh:
+<div align="center">
 
-    role = "AI/ML Engineer"
-    education = "B.Tech Artificial Intelligence & Data Science"
-    
-    domains = [
-        "Computer Vision",
-        "Deep Learning",
-        "OCR",
-        "Document Forensics",
-        "Machine Learning",
-        "Tamil Language Technology"
-    ]
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=2563EB&center=true&vCenter=true&width=800&lines=ANALYZING+DEVELOPER+ACTIVITY...;TRACKING+CODE+%7C+PROJECTS+%7C+CONTRIBUTIONS;MEASURING+CONSISTENCY+%7C+GROWTH+%7C+EXPERIMENTATION;ENGINEERING+WITH+DATA+AND+INTELLIGENCE" />
 
-    currently_exploring = [
-        "Low-Resource OCR",
-        "Explainable AI",
-        "Document Intelligence",
-        "Historical Script Recognition"
-    ]
+<br>
 
-    philosophy = "Build systems that can explain what they see."
-```
+<img src="https://github-readme-stats.vercel.app/api?username=girijesh-s001&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="180"/>
 
-I'm an **Artificial Intelligence & Data Science student** focused on building practical AI systems across **computer vision, deep learning, OCR, image processing, NLP, and machine learning**.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girijesh-s001&layout=compact&hide_border=true&langs_count=10&theme=transparent" height="180"/>
 
-My work covers the complete ML pipeline:
+<br><br>
 
-```text
-DATA
- │
- ├── Collection
- ├── Preprocessing
- ├── Feature Engineering
- └── Segmentation
-       │
-       ▼
-MODEL
- │
- ├── Training
- ├── Evaluation
- ├── Optimization
- └── Anomaly Detection
-       │
-       ▼
-INTELLIGENCE
- │
- ├── OCR
- ├── Computer Vision
- ├── NLP
- └── Deep Learning
-       │
-       ▼
-DEPLOYMENT
- │
- ├── Streamlit
- ├── Pickle
- └── Explainable Reports
-```
+<img src="https://streak-stats.demolab.com?user=girijesh-s001&theme=transparent&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=girijesh-s001&bg_color=00000000&color=2563EB&line=2563EB&point=60A5FA&area=true&hide_border=true" width="95%"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### `CODE`
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br>
+
+`ML` · `DL` · `CV` · `OCR`
+
+</td>
+
+<td width="25%" align="center">
+
+### `AI`
+
+<img src="https://img.shields.io/badge/AI%2FML-2563EB?style=for-the-badge&logo=ai&logoColor=white"/>
+
+<br>
+
+`Vision` · `NLP` · `Deep Learning`
+
+</td>
+
+<td width="25%" align="center">
+
+### `RESEARCH`
+
+<img src="https://img.shields.io/badge/RESEARCH-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+
+<br>
+
+`OCR` · `Tamil AI` · `Forensics`
+
+</td>
+
+<td width="25%" align="center">
+
+### `BUILD`
+
+<img src="https://img.shields.io/badge/DEPLOY-0F766E?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br>
+
+`Apps` · `Systems` · `Experiments`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=800&color=64748B&center=true&vCenter=true&width=900&lines=Computer+Vision+%E2%86%92+Deep+Learning+%E2%86%92+OCR+%E2%86%92+Explainable+AI;Research+%E2%86%92+Experimentation+%E2%86%92+Benchmarking+%E2%86%92+Real-World+Systems" />
+
+<br>
+
+<img src="https://img.shields.io/badge/PROFILE-Girijesh%20S-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-Computer%20Vision-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPECIALIZATION-OCR-7C3AED?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -267,383 +293,3 @@ This is one of the core areas of my AI research.
                              │
                              ▼
                   Explainable Evaluation
-```
-
-### Research Snapshot
-
-<div align="center">
-
-|          Metric         |   Result   |
-| :---------------------: | :--------: |
-|      📚 Manuscripts     |   **10**   |
-|    🔤 Labelled Glyphs   | **~2,200** |
-|     🧩 Glyph Classes    |   **319**  |
-|  🎯 Character Accuracy  | **88.10%** |
-| 📉 Character Error Rate | **11.90%** |
-
-</div>
-
-Benchmarked against:
-
-`PaddleOCR PP-OCRv5` · `DeepSeek-OCR` · `Pixtral-12B` · `Donut` · `PARSeq`
-
-Also contributed to **Olaisuvadi**, an open-source annotation platform covering Tamil glyph classes.
-
----
-
-# 🛡️ Visual Forensics AI
-
-### Document Tampering Detection & Localization
-
-```text
-                    DOCUMENT
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-       OCR        ORB/RANSAC       ELA
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-              FORENSIC ANALYSIS
-                       │
-                       ▼
-                 ResNet34
-              Anomaly Detector
-                       │
-             ┌─────────┴─────────┐
-             ▼                   ▼
-       TAMPER HEATMAP       CONFIDENCE
-             │                   │
-             └─────────┬─────────┘
-                       ▼
-             EXPLAINABLE REPORT
-```
-
-### Core Technologies
-
-`Python` · `OpenCV` · `PyTorch` · `PaddleOCR`
-
-### Techniques
-
-* OCR Forensics
-* ORB / RANSAC
-* Copy-Move Detection
-* Error Level Analysis
-* ResNet34 Anomaly Detection
-* Heatmap Generation
-* Bounding Box Localization
-* Confidence Scoring
-
----
-
-# 🌐 Tanglish → Tamil
-
-A lightweight NLP-based transliteration system for converting Romanized Tamil into native Tamil script.
-
-```text
-"epdi iruka?"
-       │
-       ▼
- NLP Normalization
-       │
-       ▼
- Tamil Transliteration
-       │
-       ▼
-"எப்படி இருக்க?"
-```
-
-**Stack:** `Python` · `NLP`
-
----
-
-# 🤖 Machine Learning Lab
-
-I have built end-to-end ML projects across multiple domains.
-
-<div align="center">
-
-| 🔬 Project                |     🧠 Type    | ⚙️ Core Stack |
-| :------------------------ | :------------: | :------------ |
-| 🩺 Diabetes Prediction    | Classification | Scikit-learn  |
-| 🏠 House Price Prediction |   Regression   | Scikit-learn  |
-| 🪨 Sonar Rock vs Mine     | Classification | Scikit-learn  |
-| 📧 Spam Mail Detection    | Classification | Scikit-learn  |
-| 📊 Predictive Modeling    |   ML Pipeline  | XGBoost       |
-
-</div>
-
-### Standard Pipeline
-
-```text
-Raw Data
-   ↓
-Data Preprocessing
-   ↓
-Feature Engineering
-   ↓
-Model Training
-   ↓
-Model Evaluation
-   ↓
-Model Serialization
-   ↓
-Deployment
-```
-
----
-
-# 📊 Analytics
-
-## Call Center Analytics Dashboard
-
-**Power BI · Data Analytics · Data Visualization**
-
-```text
-Raw Call Center Data
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-KPI Engineering
-        │
-        ▼
-Interactive Power BI Dashboard
-        │
-        ├── Call Volume
-        ├── Resolution Rate
-        ├── Agent Performance
-        └── Performance Trends
-```
-
-Built during my **TechnoHacks Data Analytics Internship**.
-
----
-
-# 🧰 Complete Toolkit
-
-<div align="center">
-
-### Languages
-
-`Python` `SQL` `C` `Java`
-
-### Machine Learning
-
-`Classification` `Regression` `Feature Engineering`
-
-`Data Preprocessing` `Model Training` `Model Evaluation`
-
-`Model Deployment` `XGBoost`
-
-### Deep Learning
-
-`CNN` `Neural Networks` `PyTorch` `TensorFlow` `Transformers`
-
-### Computer Vision
-
-`OpenCV` `Image Processing` `Image Enhancement`
-
-`Image Segmentation` `Image Classification` `OCR`
-
-`Anomaly Detection`
-
-### OCR / NLP
-
-`PaddleOCR` `EasyOCR` `NLP`
-
-### Data Science
-
-`NumPy` `Pandas` `Matplotlib`
-
-### Development & Deployment
-
-`Streamlit` `Pickle`
-
-### Developer Tools
-
-`Git` `GitHub` `Jupyter Notebook` `Google Colab`
-
-### Analytics
-
-`Power BI` `Data Visualization` `Data Analytics`
-
-</div>
-
----
-
-# 🏗️ How I Think About AI Systems
-
-```text
-              ┌─────────────────────┐
-              │      REAL WORLD     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │        DATA         │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │   PREPROCESSING     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │       MODEL         │
-              │ ML / DL / OCR / NLP │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │     EVALUATION      │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │   EXPLAINABILITY    │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │     DEPLOYMENT      │
-              └─────────────────────┘
-```
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🥇%201st%20Prize-E--HORIZON%20Pitch%20Tech%20Competition-F59E0B?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🥇%201st%20Prize-KaniniTamil%20Conference-F59E0B?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🥈%202nd%20Prize-Tamilizhi%20Language%20Technology%20Hackathon-94A3B8?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🎤%20Presenter-Global%20Startup%20Event%20%2F%20CODISSIA%20AI%20Summit-2563EB?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🎓 Education
-
-<div align="center">
-
-### Bannari Amman Institute of Technology
-
-**B.Tech in Artificial Intelligence & Data Science**
-
-`2024 — 2028`
-
-### CGPA
-
-# `7.8 / 10`
-
-</div>
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-| Certification                       | Provider              |
-| :---------------------------------- | :-------------------- |
-| 🐍 Python                           | HackerRank            |
-| 🤖 AI Fundamentals                  | Oracle                |
-| ☁️ Azure Data Fundamentals — DP-900 | Microsoft             |
-| 📊 Data Analytics Internship        | TechnoHacks Solutions |
-| 📑 Excel with AI                    | Great Learning        |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=girijesh-s001&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girijesh-s001&layout=compact&hide_border=true&langs_count=10&theme=transparent" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=girijesh-s001&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🌐 Portfolio
-
-<div align="center">
-
-### Want to see what I'm building?
-
-<a href="YOUR_PORTFOLIO_URL">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=100&section=header&text=EXPLORE%20MY%20PORTFOLIO%20→&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
-
-</a>
-
-<br>
-
-`Projects` · `Research` · `Experiments` · `AI Systems` · `Contact`
-
-</div>
-
----
-
-# 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/girijesh-s001">
-<img src="https://img.shields.io/badge/GitHub-girijesh--s001-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/girijesh-data-science">
-<img src="https://img.shields.io/badge/LinkedIn-girijesh--data--science-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/girijesh1089">
-<img src="https://img.shields.io/badge/LeetCode-girijesh1089-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:[girijesh1089@gmail.com](mailto:girijesh1089@gmail.com)">
-<img src="https://img.shields.io/badge/Email-girijesh1089-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `Build → Measure → Explain → Improve`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1e3a8a,100:0f172a&height=120&section=footer"/>
-
-</div>

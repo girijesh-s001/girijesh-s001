@@ -99,20 +99,25 @@ My current research interests include:
 
 ---
 
-# 🛠️ Tech Stack & Skills
+# ⚡ Technical Stack
 
-## 💻 Programming Languages
+<div align="center">
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=750&lines=Python+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+OCR+%7C+NLP;Data+Analytics+%7C+Deployment+%7C+AI+Research" alt="Technical Stack Animation"/>
+
+<br/><br/>
+
+### 💻 Programming
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
 
-## 🤖 Machine Learning
+<br/><br/>
 
-<p>
+### 🤖 Machine Learning
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white"/>
 <img src="https://img.shields.io/badge/Classification-2563EB?style=for-the-badge"/>
@@ -122,21 +127,21 @@ My current research interests include:
 <img src="https://img.shields.io/badge/Model%20Training-E11D48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Model%20Evaluation-9333EA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Model%20Deployment-0F766E?style=for-the-badge"/>
-</p>
 
-## 🧠 Deep Learning
+<br/><br/>
 
-<p>
+### 🧠 Deep Learning
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/CNN-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Neural%20Networks-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Transformers-F59E0B?style=for-the-badge"/>
-</p>
 
-## 👁️ Computer Vision
+<br/><br/>
 
-<p>
+### 👁️ Computer Vision
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Image%20Processing-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Image%20Enhancement-0891B2?style=for-the-badge"/>
@@ -144,11 +149,11 @@ My current research interests include:
 <img src="https://img.shields.io/badge/Image%20Classification-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Anomaly%20Detection-E11D48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ORB%20%2F%20RANSAC-F97316?style=for-the-badge"/>
-</p>
 
-## 🔎 OCR & Document Intelligence
+<br/><br/>
 
-<p>
+### 🔎 OCR & Document Intelligence
+
 <img src="https://img.shields.io/badge/PaddleOCR-00A67E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EasyOCR-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OCR%20Forensics-DC2626?style=for-the-badge"/>
@@ -156,43 +161,60 @@ My current research interests include:
 <img src="https://img.shields.io/badge/Copy--Move%20Detection-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Error%20Level%20Analysis-F59E0B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Heatmap%20Localization-E11D48?style=for-the-badge"/>
-</p>
 
-## 📝 NLP & Language Technology
+<br/><br/>
 
-<p>
+### 📝 NLP & Language Technology
+
 <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tamil%20Language%20Technology-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tanglish%20%7C%20Tamil-059669?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Transliteration-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Text%20Normalization-E11D48?style=for-the-badge"/>
-</p>
 
-## 📊 Data Analytics
+<br/><br/>
 
-<p>
+### 📊 Data Analytics
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge"/>
-</p>
 
-## 🚀 Tools & Deployment
+<br/><br/>
 
-<p>
+### 🚀 Tools & Deployment
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pickle-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1d4ed8,100:020617&height=3&section=header" width="85%"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+AI+Systems+for+Real-World+Problems;Computer+Vision+%2B+Deep+Learning+%2B+OCR;Researching+Low-Resource+AI" alt="Projects Animation"/>
+
+</div>
+
+---
 
 ## 🔍 Visual Forensics AI
 
@@ -266,9 +288,9 @@ A computer vision and deep learning system designed to **detect, analyze, and lo
 
 ---
 
-# 📜 Ancient Tamil Character Recognition
+## 📜 Ancient Tamil Character Recognition
 
-## AI-Based Ancient Tamil & Palm-Leaf Manuscript OCR
+### AI-Based Ancient Tamil & Palm-Leaf Manuscript OCR
 
 A research-oriented OCR system focused on recognizing **historical Tamil characters from palm-leaf manuscripts and other low-resource document sources**.
 
@@ -332,7 +354,7 @@ Tamil Language Preservation
 
 ---
 
-# 🔤 Tanglish → Tamil
+## 🔤 Tanglish → Tamil
 
 ### Natural Language Processing & Transliteration
 
@@ -422,6 +444,12 @@ Developed during the **TechnoHacks Data Analytics Internship**.
 
 # 🧠 AI System Mindset
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=850&lines=Prediction+is+only+the+beginning.;Evidence+%2B+Confidence+%2B+Reason+%3D+Better+AI;Build+%E2%86%92+Measure+%E2%86%92+Explain+%E2%86%92+Improve" alt="AI Mindset Animation"/>
+
+</div>
+
 I don't want to build AI systems that simply return:
 
 ```text
@@ -497,17 +525,25 @@ Action
 
 # 📜 Certifications
 
-<p>
+<div align="center">
+
 <img src="https://img.shields.io/badge/HackerRank-Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 <img src="https://img.shields.io/badge/Oracle-AI%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals%20DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/TechnoHacks-Data%20Analytics-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Great%20Learning-Excel%20with%20AI-0F766E?style=for-the-badge"/>
-</p>
+
+</div>
 
 ---
 
 # 🔬 Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=800&color=60A5FA&center=true&vCenter=true&width=800&lines=Low-Resource+OCR;Historical+Character+Recognition;Explainable+AI;Document+Intelligence;Tamil+Language+Technology;Computer+Vision+%2B+Deep+Learning" alt="Research Animation"/>
+
+</div>
 
 ```text
                          AI RESEARCH
@@ -654,6 +690,12 @@ Real-World Impact
 
 ### Long-Term Technical Direction
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=700&color=60A5FA&center=true&vCenter=true&width=800&lines=Computer+Vision+%2B+Deep+Learning;Language+Technology+%2B+Explainability;Research+%2B+Engineering+%2B+Real-World+Impact" alt="Technical Direction Animation"/>
+
+</div>
+
 ```text
 Computer Vision
         +
@@ -688,19 +730,13 @@ Intelligent Real-World Systems
 <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Meaningful+%F0%9F%9A%80;Researching+%7C+Building+%7C+Learning+%7C+Improving;Turning+Ideas+into+Intelligent+Systems" alt="Connect Animation"/>
 
-<div align="center">
+<br/><br/>
 
-### 🤝 Let's Build Something Meaningful
-
-**AI • Computer Vision • OCR • Document Intelligence • Tamil Language Technology**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Build+%E2%86%92+Measure+%E2%86%92+Explain+%E2%86%92+Improve;Turning+Ideas+into+Intelligent+Systems;Researching+%7C+Building+%7C+Learning+%7C+Improving" alt="Closing Typing Animation"/>
+<b>AI • Computer Vision • OCR • Document Intelligence • Tamil Language Technology</b>
 
 <br/><br/>
 

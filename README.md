@@ -1,516 +1,470 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=GIRIJESH%20S&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20OCR&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:2563eb&height=280&section=header&text=GIRIJESH%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20OCR&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<br>
+<br/>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-2563EB?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+OCR;Building+AI+for+Real-World+Problems;Low-Resource+Language+Technology+%F0%9F%93%9C;Document+Intelligence+%7C+Explainable+AI;Build+%E2%86%92+Measure+%E2%86%92+Explain+%E2%86%92+Improve" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="mailto:girijesh1089@gmail.com">
+<img src="https://img.shields.io/badge/Email-girijesh1089%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://linkedin.com/in/girijesh-data-science">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
+
 <a href="https://github.com/girijesh-s001">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-girijesh--s001-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://linkedin.com/in/girijesh-data-science">
+<img src="https://img.shields.io/badge/LinkedIn-Girijesh%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Intelligent+Computer+Vision+Systems;Researching+Low-Resource+OCR;Document+Forensics+%7C+Deep+Learning;Tamil+Language+Technology;Turning+Research+into+Real-World+AI" />
+<a href="https://leetcode.com/u/girijesh1089/">
+<img src="https://img.shields.io/badge/LeetCode-girijesh1089-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=girijesh-s001&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=girijesh-s001&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# `> whoami`
+# 👋 Hi, I'm Girijesh S
 
-```python
-class Girijesh:
+<h3 align="center">
+AI/ML Engineer • Computer Vision • Deep Learning • OCR • Document Intelligence
+</h3>
 
-    role = "AI/ML Engineer"
-    education = "B.Tech Artificial Intelligence & Data Science"
-    
-    domains = [
-        "Computer Vision",
-        "Deep Learning",
-        "OCR",
-        "Document Forensics",
-        "Machine Learning",
-        "Tamil Language Technology"
-    ]
+<p align="center">
+<b>Building intelligent systems that don't just predict, but explain why.</b>
+</p>
 
-    currently_exploring = [
-        "Low-Resource OCR",
-        "Explainable AI",
-        "Document Intelligence",
-        "Historical Script Recognition"
-    ]
+---
 
-    philosophy = "Build systems that can explain what they see."
-```
+# 🧑‍💻 About Me
 
-I'm an **Artificial Intelligence & Data Science student** focused on building practical AI systems across **computer vision, deep learning, OCR, image processing, NLP, and machine learning**.
+I'm **Girijesh S**, a B.Tech Artificial Intelligence and Data Science student focused on building practical AI systems across:
 
-My work covers the complete ML pipeline:
+**Computer Vision • Deep Learning • OCR • NLP • Machine Learning • Document Intelligence**
+
+I enjoy taking AI problems from an initial idea through:
+
+**Data → Modeling → Evaluation → Error Analysis → Explainability → Deployment**
+
+My current research interests include:
+
+* 🔎 Low-resource OCR
+* 📜 Historical script recognition
+* 🧾 Document forensics
+* 🧠 Explainable AI
+* 🪷 Tamil language technology
+* 👁️ Computer vision
+* 🤖 Deep learning
+* 📄 Document intelligence
+
+### ⚙️ My Engineering Workflow
 
 ```text
-DATA
- │
- ├── Collection
- ├── Preprocessing
- ├── Feature Engineering
- └── Segmentation
-       │
-       ▼
-MODEL
- │
- ├── Training
- ├── Evaluation
- ├── Optimization
- └── Anomaly Detection
-       │
-       ▼
-INTELLIGENCE
- │
- ├── OCR
- ├── Computer Vision
- ├── NLP
- └── Deep Learning
-       │
-       ▼
-DEPLOYMENT
- │
- ├── Streamlit
- ├── Pickle
- └── Explainable Reports
+                    PROBLEM
+                       │
+                       ▼
+                DATA COLLECTION
+                       │
+                       ▼
+               DATA PREPROCESSING
+                       │
+                       ▼
+               FEATURE ENGINEERING
+                       │
+                       ▼
+                  MODEL TRAINING
+                       │
+                       ▼
+                    EVALUATION
+                       │
+                       ▼
+                  ERROR ANALYSIS
+                       │
+                       ▼
+                    DEPLOYMENT
+                       │
+                       ▼
+                EXPLAINABLE RESULTS
+                       │
+                       └──────────────► IMPROVE
 ```
 
 ---
 
-# ⚡ What I Build
+# 🛠️ Tech Stack & Skills
 
-<div align="center">
+## 💻 Programming Languages
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 👁️ Computer Vision
-
-Image Processing
-Image Enhancement
-Image Segmentation
-Image Classification
-Anomaly Detection
-
-</td>
-
-<td width="33%" align="center">
-
-### 📝 OCR & Document AI
-
-OCR Pipelines
-Document Forensics
-Character Recognition
-Tampering Detection
-Localization
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 Machine Learning
-
-Classification
-Regression
-Feature Engineering
-Model Evaluation
-Model Deployment
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🧬 My AI Stack
-
-## Programming
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql&perline=8" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-Expertise%20Focus-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-Programming-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-
-</div>
-
----
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ## 🤖 Machine Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=sklearn" />
-
-<br><br>
-
-`Classification` · `Regression` · `Feature Engineering`
-
-`Data Preprocessing` · `Model Training` · `Model Evaluation`
-
-`Model Deployment` · `XGBoost`
-
-</div>
-
----
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/Classification-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Preprocessing-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Training-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Deployment-0F766E?style=for-the-badge"/>
+</p>
 
 ## 🧠 Deep Learning
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-F59E0B?style=for-the-badge"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+## 👁️ Computer Vision
 
-<br><br>
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Image%20Processing-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image%20Enhancement-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image%20Segmentation-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image%20Classification-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anomaly%20Detection-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ORB%20%2F%20RANSAC-F97316?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Networks-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transformers-Deep%20Learning-6366F1?style=flat-square"/>
+## 🔎 OCR & Document Intelligence
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/PaddleOCR-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EasyOCR-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR%20Forensics-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Document%20Intelligence-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Copy--Move%20Detection-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Error%20Level%20Analysis-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Heatmap%20Localization-E11D48?style=for-the-badge"/>
+</p>
 
----
+## 📝 NLP & Language Technology
 
-# 👁️ Computer Vision Arsenal
+<p>
+<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tamil%20Language%20Technology-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tanglish%20%7C%20Tamil-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transliteration-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Text%20Normalization-E11D48?style=for-the-badge"/>
+</p>
 
-<div align="center">
+## 📊 Data Analytics
 
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pillow-Image%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge"/>
+</p>
 
-<br><br>
+## 🚀 Tools & Deployment
 
-`Image Processing`
-
-`Image Enhancement`
-
-`Image Segmentation`
-
-`Image Classification`
-
-`Anomaly Detection`
-
-`Document Analysis`
-
-</div>
-
----
-
-# 🔤 OCR & Language Technology
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PaddleOCR-OCR-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EasyOCR-OCR-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-Language%20Processing-8B5CF6?style=for-the-badge"/>
-
-<br><br>
-
-### Focus
-
-`Low-Resource OCR` · `Tamil OCR` · `Character Recognition`
-
-`Document OCR` · `Tamil NLP` · `Tanglish Transliteration`
-
-</div>
-
----
-
-# 🧪 Featured Research
-
-## 🏺 Ancient Tamil & Palm-Leaf Manuscript OCR
-
-> **Research area:** Low-resource OCR + Historical Tamil Script Recognition
-
-This is one of the core areas of my AI research.
-
-```text
-                    PALM-LEAF MANUSCRIPT
-                             │
-                             ▼
-                  Adaptive Preprocessing
-                             │
-                             ▼
-                   Text-Line Segmentation
-                             │
-                             ▼
-                    Glyph Segmentation
-                             │
-                             ▼
-                       CNN MODEL
-                             │
-                             ▼
-                   Tamil Glyph Prediction
-                             │
-                             ▼
-                  Explainable Evaluation
-```
-
-### Research Snapshot
-
-<div align="center">
-
-|          Metric         |   Result   |
-| :---------------------: | :--------: |
-|      📚 Manuscripts     |   **10**   |
-|    🔤 Labelled Glyphs   | **~2,200** |
-|     🧩 Glyph Classes    |   **319**  |
-|  🎯 Character Accuracy  | **88.10%** |
-| 📉 Character Error Rate | **11.90%** |
-
-</div>
-
-Benchmarked against:
-
-`PaddleOCR PP-OCRv5` · `DeepSeek-OCR` · `Pixtral-12B` · `Donut` · `PARSeq`
-
-Also contributed to **Olaisuvadi**, an open-source annotation platform covering Tamil glyph classes.
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pickle-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
 
 ---
 
-# 🛡️ Visual Forensics AI
+# 🚀 Featured Projects
+
+## 🔍 Visual Forensics AI
 
 ### Document Tampering Detection & Localization
 
+A computer vision and deep learning system designed to **detect, analyze, and localize suspicious modifications in digital documents**.
+
+### 🔄 System Architecture
+
 ```text
-                    DOCUMENT
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-       OCR        ORB/RANSAC       ELA
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-              FORENSIC ANALYSIS
-                       │
-                       ▼
-                 ResNet34
-              Anomaly Detector
-                       │
-             ┌─────────┴─────────┐
-             ▼                   ▼
-       TAMPER HEATMAP       CONFIDENCE
-             │                   │
-             └─────────┬─────────┘
-                       ▼
-             EXPLAINABLE REPORT
+                         DOCUMENT
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │    PREPROCESSING     │
+                 │                      │
+                 │ • Image Enhancement │
+                 │ • Noise Reduction   │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │   FORENSIC ANALYSIS  │
+                 │                      │
+                 │ • OCR               │
+                 │ • ORB / RANSAC      │
+                 │ • Copy-Move         │
+                 │ • Error Level       │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │      AI MODEL        │
+                 │                      │
+                 │ • ResNet34           │
+                 │ • Anomaly Detection  │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │  TAMPER LOCALIZATION │
+                 │                      │
+                 │ • Heatmap            │
+                 │ • Bounding Boxes     │
+                 │ • Confidence Score   │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │ EXPLAINABLE FORENSIC │
+                 │       REPORT         │
+                 └──────────────────────┘
 ```
 
-### Core Technologies
+### 🧰 Technologies
 
-`Python` · `OpenCV` · `PyTorch` · `PaddleOCR`
+**Python • OpenCV • PyTorch • PaddleOCR**
 
-### Techniques
+### 🔬 Core Techniques
 
-* OCR Forensics
-* ORB / RANSAC
+* OCR-based forensic analysis
+* ORB feature matching
+* RANSAC geometric verification
 * Copy-Move Detection
 * Error Level Analysis
-* ResNet34 Anomaly Detection
-* Heatmap Generation
-* Bounding Box Localization
-* Confidence Scoring
+* ResNet34 anomaly detection
+* Tamper heatmap generation
+* Bounding-box localization
+* Confidence scoring
+* Explainable forensic reporting
 
 ---
 
-# 🌐 Tanglish → Tamil
+# 📜 Ancient Tamil Character Recognition
 
-A lightweight NLP-based transliteration system for converting Romanized Tamil into native Tamil script.
+## AI-Based Ancient Tamil & Palm-Leaf Manuscript OCR
+
+A research-oriented OCR system focused on recognizing **historical Tamil characters from palm-leaf manuscripts and other low-resource document sources**.
+
+### 📊 Research Scale
 
 ```text
-"epdi iruka?"
-       │
-       ▼
- NLP Normalization
-       │
-       ▼
- Tamil Transliteration
-       │
-       ▼
-"எப்படி இருக்க?"
+                  10 MANUSCRIPTS
+                        │
+                        ▼
+                 ~2,200 GLYPHS
+                        │
+                        ▼
+                  319 CLASSES
+                        │
+                        ▼
+               MODEL BENCHMARKING
+                        │
+                        ▼
+                88.10% ACCURACY
+                        │
+                        ▼
+                  11.90% CER
 ```
 
-**Stack:** `Python` · `NLP`
+### 🧪 Model Benchmarking
+
+```text
+                    ANCIENT TAMIL OCR
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+        PaddleOCR      DeepSeek-OCR   Pixtral-12B
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                     Donut / PARSeq
+                            │
+                            ▼
+                       COMPARISON
+```
+
+### 🌱 Open-Source Contribution
+
+Contributed to **Olaisuvadi**, an open-source annotation platform supporting Tamil glyph classes and manuscript annotation workflows.
+
+### 🎯 Research Pipeline
+
+```text
+Historical Manuscript
+        ↓
+Image Enhancement
+        ↓
+Glyph Segmentation
+        ↓
+Character Recognition
+        ↓
+Low-Resource OCR
+        ↓
+Tamil Language Preservation
+```
 
 ---
 
-# 🤖 Machine Learning Lab
+# 🔤 Tanglish → Tamil
 
-I have built end-to-end ML projects across multiple domains.
+### Natural Language Processing & Transliteration
 
-<div align="center">
+An NLP project designed to convert **Romanized Tamil / Tanglish into native Tamil script**.
 
-| 🔬 Project                |     🧠 Type    | ⚙️ Core Stack |
-| :------------------------ | :------------: | :------------ |
-| 🩺 Diabetes Prediction    | Classification | Scikit-learn  |
-| 🏠 House Price Prediction |   Regression   | Scikit-learn  |
-| 🪨 Sonar Rock vs Mine     | Classification | Scikit-learn  |
-| 📧 Spam Mail Detection    | Classification | Scikit-learn  |
-| 📊 Predictive Modeling    |   ML Pipeline  | XGBoost       |
-
-</div>
-
-### Standard Pipeline
+### Example
 
 ```text
-Raw Data
+Tanglish
    ↓
-Data Preprocessing
+"vanakkam eppadi irukeenga"
+   ↓
+Tamil
+   ↓
+"வணக்கம் எப்படி இருக்கீங்க"
+```
+
+### Focus Areas
+
+* NLP
+* Romanized Tamil processing
+* Transliteration
+* Text normalization
+* Tamil language technology
+
+---
+
+# 🧪 Machine Learning Projects
+
+| Project                   | Category       | Technology   |
+| ------------------------- | -------------- | ------------ |
+| 🩺 Diabetes Prediction    | Classification | Scikit-learn |
+| 🏠 House Price Prediction | Regression     | Scikit-learn |
+| 🚢 Sonar Rock vs Mine     | Classification | Scikit-learn |
+| 📧 Spam Mail Detection    | Classification | Scikit-learn |
+| 📈 Predictive Modeling    | ML Pipeline    | XGBoost      |
+
+### General ML Workflow
+
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
    ↓
 Feature Engineering
    ↓
+Train / Test Split
+   ↓
 Model Training
    ↓
-Model Evaluation
+Evaluation
    ↓
-Model Serialization
-   ↓
-Deployment
+Prediction
 ```
 
 ---
 
-# 📊 Analytics
+# 📊 Call Center Analytics Dashboard
 
-## Call Center Analytics Dashboard
+### Power BI Data Analytics Project
 
-**Power BI · Data Analytics · Data Visualization**
+Built a dashboard focused on understanding **call-center performance, operational KPIs, and performance trends**.
+
+### 📌 Key Metrics
 
 ```text
-Raw Call Center Data
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-KPI Engineering
-        │
-        ▼
-Interactive Power BI Dashboard
-        │
-        ├── Call Volume
-        ├── Resolution Rate
-        ├── Agent Performance
-        └── Performance Trends
+Call Volume
+     +
+Resolution Rate
+     +
+Agent Performance
+     +
+Performance Trends
+     ↓
+Operational Insights
 ```
 
-Built during my **TechnoHacks Data Analytics Internship**.
+### 🛠️ Technology
+
+**Power BI • Data Analytics • Data Visualization**
+
+Developed during the **TechnoHacks Data Analytics Internship**.
 
 ---
 
-# 🧰 Complete Toolkit
+# 🧠 AI System Mindset
 
-<div align="center">
-
-### Languages
-
-`Python` `SQL` `C` `Java`
-
-### Machine Learning
-
-`Classification` `Regression` `Feature Engineering`
-
-`Data Preprocessing` `Model Training` `Model Evaluation`
-
-`Model Deployment` `XGBoost`
-
-### Deep Learning
-
-`CNN` `Neural Networks` `PyTorch` `TensorFlow` `Transformers`
-
-### Computer Vision
-
-`OpenCV` `Image Processing` `Image Enhancement`
-
-`Image Segmentation` `Image Classification` `OCR`
-
-`Anomaly Detection`
-
-### OCR / NLP
-
-`PaddleOCR` `EasyOCR` `NLP`
-
-### Data Science
-
-`NumPy` `Pandas` `Matplotlib`
-
-### Development & Deployment
-
-`Streamlit` `Pickle`
-
-### Developer Tools
-
-`Git` `GitHub` `Jupyter Notebook` `Google Colab`
-
-### Analytics
-
-`Power BI` `Data Visualization` `Data Analytics`
-
-</div>
-
----
-
-# 🏗️ How I Think About AI Systems
+I don't want to build AI systems that simply return:
 
 ```text
-              ┌─────────────────────┐
-              │      REAL WORLD     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │        DATA         │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │   PREPROCESSING     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │       MODEL         │
-              │ ML / DL / OCR / NLP │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │     EVALUATION      │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │   EXPLAINABILITY    │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │     DEPLOYMENT      │
-              └─────────────────────┘
+Prediction = 0.91
 ```
+
+I want systems that can communicate:
+
+```text
+Prediction
+    ↓
+Confidence
+    ↓
+Evidence
+    ↓
+Reason
+    ↓
+Action
+```
+
+### 🔁 My Engineering Loop
+
+```text
+       ┌──────────────┐
+       │    BUILD     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   MEASURE    │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   EXPLAIN    │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   IMPROVE    │
+       └──────┬───────┘
+              │
+              └──────────────► BUILD
+```
+
+> **Accuracy matters. Understanding why the system made its decision matters too.**
 
 ---
 
@@ -518,19 +472,12 @@ Built during my **TechnoHacks Data Analytics Internship**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇%201st%20Prize-E--HORIZON%20Pitch%20Tech%20Competition-F59E0B?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🥇%201st%20Prize-KaniniTamil%20Conference-F59E0B?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🥈%202nd%20Prize-Tamilizhi%20Language%20Technology%20Hackathon-94A3B8?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🎤%20Presenter-Global%20Startup%20Event%20%2F%20CODISSIA%20AI%20Summit-2563EB?style=for-the-badge"/>
+| Achievement                                  | Result        |
+| -------------------------------------------- | ------------- |
+| 🥇 E-HORIZON Pitch Tech Competition 2026     | **1st Prize** |
+| 🥇 KaniniTamil Conference                    | **1st Prize** |
+| 🥈 Tamilizhi Language Technology Hackathon   | **2nd Prize** |
+| 🎤 Global Startup Event / CODISSIA AI Summit | **Presenter** |
 
 </div>
 
@@ -538,112 +485,225 @@ Built during my **TechnoHacks Data Analytics Internship**.
 
 # 🎓 Education
 
-<div align="center">
-
 ### Bannari Amman Institute of Technology
 
-**B.Tech in Artificial Intelligence & Data Science**
+**B.Tech — Artificial Intelligence and Data Science**
 
-`2024 — 2028`
+📅 **2024 – 2028**
 
-### CGPA
-
-# `7.8 / 10`
-
-</div>
+📊 **CGPA: 7.8 / 10**
 
 ---
 
 # 📜 Certifications
 
+<p>
+<img src="https://img.shields.io/badge/HackerRank-Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/Oracle-AI%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals%20DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/TechnoHacks-Data%20Analytics-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Great%20Learning-Excel%20with%20AI-0F766E?style=for-the-badge"/>
+</p>
+
+---
+
+# 🔬 Currently Exploring
+
+```text
+                         AI RESEARCH
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+       Low-Resource       Historical      Explainable
+            OCR           Recognition          AI
+              │               │               │
+              └───────────────┼───────────────┘
+                              ▼
+                     Document Intelligence
+                              │
+                 ┌────────────┴────────────┐
+                 ▼                         ▼
+       Tamil Language Technology     Computer Vision
+                 │                         │
+                 └────────────┬────────────┘
+                              ▼
+                       Deep Learning
+```
+
+---
+
+# 📈 GitHub Analytics
+
 <div align="center">
 
-| Certification                       | Provider              |
-| :---------------------------------- | :-------------------- |
-| 🐍 Python                           | HackerRank            |
-| 🤖 AI Fundamentals                  | Oracle                |
-| ☁️ Azure Data Fundamentals — DP-900 | Microsoft             |
-| 📊 Data Analytics Internship        | TechnoHacks Solutions |
-| 📑 Excel with AI                    | Great Learning        |
+<img src="https://github-readme-stats.vercel.app/api?username=girijesh-s001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girijesh-s001&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=girijesh-s001&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🧩 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=girijesh-s001&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girijesh-s001&layout=compact&hide_border=true&langs_count=10&theme=transparent" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=girijesh-s001&theme=transparent&hide_border=true" />
+<img src="https://ghchart.rshah.org/2563eb/girijesh-s001" alt="GitHub Contribution Chart" width="90%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🧠 LeetCode Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://leetcard.jacoblin.cool/girijesh1089?theme=dark&font=baloo&ext=heatmap" width="75%"/>
 
-</div>
+<br/><br/>
 
----
-
-# 🌐 Portfolio
-
-<div align="center">
-
-### Want to see what I'm building?
-
-<a href="YOUR_PORTFOLIO_URL">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=100&section=header&text=EXPLORE%20MY%20PORTFOLIO%20→&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
-
+<a href="https://leetcode.com/u/girijesh1089/">
+<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br>
-
-`Projects` · `Research` · `Experiments` · `AI Systems` · `Contact`
-
 </div>
 
 ---
 
-# 🤝 Connect
+# 🧮 Problem Solving Mindset
+
+```text
+Understand the Problem
+        ↓
+Identify Constraints
+        ↓
+Design the Algorithm
+        ↓
+Analyze Complexity
+        ↓
+Implement
+        ↓
+Test Edge Cases
+        ↓
+Optimize
+```
+
+I use competitive programming to continuously improve my:
+
+* Data Structures
+* Algorithms
+* Problem Solving
+* Time Complexity
+* Space Complexity
+* Optimization
+* Logical Thinking
+
+---
+
+# 🚀 My Development Journey
+
+```text
+                         AI / ML
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+   Computer Vision    Machine Learning   Data Analytics
+          │                 │                 │
+          ▼                 ▼                 ▼
+   Deep Learning           NLP          Visualization
+          │                 │
+          └──────────┬──────┘
+                     ▼
+             Document Intelligence
+                     │
+                     ▼
+              Low-Resource OCR
+                     │
+                     ▼
+              Explainable AI
+                     │
+                     ▼
+             Real-World AI Systems
+```
+
+---
+
+# 🎯 What I Want to Build
+
+I'm interested in building **AI systems that solve real-world problems, not just benchmark problems.**
+
+```text
+Real-World Problem
+        ↓
+High-Quality Data
+        ↓
+Strong ML / DL Model
+        ↓
+Reliable Evaluation
+        ↓
+Explainability
+        ↓
+Deployment
+        ↓
+Real-World Impact
+```
+
+### Long-Term Technical Direction
+
+```text
+Computer Vision
+        +
+Deep Learning
+        +
+Language Technology
+        +
+Explainability
+        ↓
+Intelligent Real-World Systems
+```
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/girijesh-s001">
-<img src="https://img.shields.io/badge/GitHub-girijesh--s001-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/girijesh-data-science">
-<img src="https://img.shields.io/badge/LinkedIn-girijesh--data--science-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/girijesh1089">
-<img src="https://img.shields.io/badge/LeetCode-girijesh1089-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/girijesh1089/">
+<img src="https://img.shields.io/badge/LeetCode-My%20Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:girijesh1089@gmail.com">
-<img src="https://img.shields.io/badge/Email-girijesh1089-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-### `Build → Measure → Explain → Improve`
+### 🤝 Let's Build Something Meaningful
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+**AI • Computer Vision • OCR • Document Intelligence • Tamil Language Technology**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Build+%E2%86%92+Measure+%E2%86%92+Explain+%E2%86%92+Improve;Turning+Ideas+into+Intelligent+Systems;Researching+%7C+Building+%7C+Learning+%7C+Improving" alt="Closing Typing Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1d4ed8,100:020617&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
